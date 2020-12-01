@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">CSC250_HW_14</string>
+    <string name="Display_Calculation_TextView">placeholder</string>
+    <string name="Final_Display">placeholder</string>
+    <string name="current_dice_string">Current Dice</string>
+
+    <string name="button1_text">1</string>
+    <string name="button2_text">2</string>
+    <string name="button3_text">3</string>
+    <string name="button4_text">4</string>
+    <string name="button5_text">5</string>
+    <string name="button6_text">6</string>
+    <string name="button7_text">7</string>
+    <string name="button8_text">8</string>
+    <string name="button9_text">9</string>
+    <string name="button0_text">0</string>
+    <string name="clear">clear</string>
+
+    <string name="D4_dice">D4</string>
+    <string name="D6_dice">D6</string>
+    <string name="D8_dice">D8</string>
+    <string name="D10_dice">D10</string>
+    <string name="D12_dice">D12</string>
+    <string name="D20_dice">D20</string>
+
+    <string name="roll_button_name">Roll</string>
+    <string name="percentile_button_name">Percentile</string>
 </resources>
