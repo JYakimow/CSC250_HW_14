@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CSC250_HW_14</string>
-    <string name="Display_Calculation_TextView">placeholder</string>
-    <string name="Final_Display">placeholder</string>
-    <string name="current_dice_string">Current Dice</string>
+    <string name="Display_Calculation_TextView">calculations</string>
+    <string name="Final_Display">total</string>
+    <string name="current_dice_string">dice selection</string>
 
     <string name="button1_text">1</string>
     <string name="button2_text">2</string>
